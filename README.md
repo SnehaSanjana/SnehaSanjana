@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ML algorithms,flask,Data Structures**
 
-- 💬 Ask me about **KNN ,Logistic Regression ,K-Means**
+- 💬 Ask me about **Machine Learning algorithms,Data structures and programming language:python and C **
 
 - 📫 How to reach me **snehasanjana03@gmail.com**
 
