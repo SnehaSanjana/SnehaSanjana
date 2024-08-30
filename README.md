@@ -1,15 +1,15 @@
 [![MasterHead](https://cdn.nbyula.com/public/community/6241a167b27bfd001bdf0700/bannerImage/1648468478156-6241a167b27bfd001bdf0700.jpeg)](https://SnehaSanjana.io)
 <h1 align="center">Hi 👋, I'm Sneha Sanjana Dinesh Gowda</h1>
-<h3 align="center">A programmer and passionate towards ML</h3>
+<h3 align="center">A programmer and a passionate learner /h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*1AktzTtx2ZOH1kb8yv7Piw.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehasanjana&label=Profile%20views&color=0e75b6&style=flat" alt="snehasanjana" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **ML algorithms,flask,Data Structures**
+- 🌱 I’m keen on embedded systems**
 
-- 💬 Ask me about **Machine Learning algorithms,Data structures and programming language:python and C **
+
 
 - 📫 How to reach me **snehasanjana03@gmail.com**
 
